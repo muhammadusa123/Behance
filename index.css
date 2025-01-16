@@ -46,11 +46,29 @@ display: flex;
     display: flex;
     background-color: rgb(62, 58, 58);
     color: white;
+    margin-top: 20px;
 }
 .bot1{
-    margin-left: 30px;
+    margin-left: 35px;
     margin-top: 15px;
+    border-right: 2px solid grey;
 }
 .last{
-    margin-right: 20px;
+    margin-left: 900px;
+}
+.signup{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin:20px;
+}
+.bn{
+    background-color: rgb(46, 151, 208);
+    border-radius: 40%;
+}
+.bbn{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin:20px;
 }
